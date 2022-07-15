@@ -3,10 +3,10 @@
 2. NAFASYA RAHMA SAFITRA	2017051023
 3. WINA FADHILAH			    2017051056
 
-# Sistem Informasi Administrasi Kependudukan (SIAK)
+# Deskripsi Perangkat Lunak
 SIAK merupakan suatu sistem informasi yang digunakan untuk mengelola data dan informasi terkait administrasi kependudukan. Pengelolaan yang dimaksud dalam sistem ini mencakup fungsi CRUD, pencetakan surat keterangan, dan juga pencetakan laporan. Tujuan dibuatnya SIAK adalah untuk memudahkan pengelolaan data kependudukan dan catatan sipil. 
 
-#Lingkungan Operasi
+# Lingkungan Operasi
 1. Operating System	: Microsoft Windows 7/8/10/11
 2. Script Language	: PHP, HTML, dan CSS
 3. DBMS			      : MySQL
