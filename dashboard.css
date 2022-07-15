@@ -1,0 +1,17 @@
+.card-body-icon{
+    position: absolute;
+    z-index: 0;
+    top: 28px;
+    right: 8px;
+    opacity: 0.4;
+    font-size: 72px;
+  }
+
+.display-4{
+      font-weight: bold;
+  }
+  
+.sb-sidenav-light{
+  background-color: #2447F9;
+  color: 2447F9;
+}
