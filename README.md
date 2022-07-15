@@ -1,4 +1,4 @@
-#Anggota Kelompok
+# Anggota Kelompok
 1. M. THORIQ AL FAJRI		  2057051002
 2. NAFASYA RAHMA SAFITRA	2017051023
 3. WINA FADHILAH			    2017051056
@@ -9,11 +9,11 @@ SIAK merupakan suatu sistem informasi yang digunakan untuk mengelola data dan in
 #Lingkungan Operasi
 1. Operating System	: Microsoft Windows 7/8/10/11
 2. Script Language	: PHP, HTML, dan CSS
-3. DBMS			        : MySQL
-4. Text Editor		  : Visual Studio Code
-5. Web Browser		  :Chrome, Microsoft Edge, Mozilla Firefox, Opera, dll.
+3. DBMS			      : MySQL
+4. Text Editor		   : Visual Studio Code
+5. Web Browser		   : Chrome, Microsoft Edge, Mozilla Firefox, Opera, dll.
 
-#Fungsi-fungsi Perangkat Lunak
+# Fungsi-fungsi Perangkat Lunak
 1. Fungsi kelola data penduduk
    - Fungsi tambah data penduduk
    - Fungsi edit data penduduk
